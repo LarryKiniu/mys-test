@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "lint": "eslint src/*"
+    "lint": "linting src/*"
   },
   "author": "Larry Kiniu",
   "license": "ISC"
