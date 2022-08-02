@@ -16,6 +16,6 @@
     "eslint": "^8.21.0",
     "eslint-config-rnxkit":"*",
     "typescript": "^4.7.4",
-    "midgard-yarn-strict":"*"
+    "linting":"*"
   }
 }

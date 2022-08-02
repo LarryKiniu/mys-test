@@ -8,7 +8,13 @@
   },
   "dependencies": {
     "@microsoft/eslint-plugin-sdl": "^0.2.0",
-    "@rnx-kit/eslint-plugin": "0.2.13"
+    "@rnx-kit/eslint-plugin": "0.2.13",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "enhanced-resolve": "^5.8.3",
+    "eslint-plugin-react": "^7.26.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-node": "^11.1.0"
   },
   "author": "Larry Kiniu",
   "license": "ISC"
