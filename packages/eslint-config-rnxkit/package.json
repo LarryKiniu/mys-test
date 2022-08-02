@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-rnxkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@microsoft/eslint-plugin-sdl": "^0.2.0",
+    "@rnx-kit/eslint-plugin": "0.2.13"
+  },
+  "author": "Larry Kiniu",
+  "license": "ISC"
+}
