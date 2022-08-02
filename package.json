@@ -1,0 +1,21 @@
+{
+  "name": "mys-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private":true,
+  "workspaces":[
+    "packages/*"
+  ],
+  "scripts": {
+    "fast": "node midgard-yarn-strict.bundle.js"
+  },
+  "author": "Larry",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-rnxkit":"*",
+    "typescript": "^4.7.4",
+    "midgard-yarn-strict":"*"
+  }
+}

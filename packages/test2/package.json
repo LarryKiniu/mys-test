@@ -1,0 +1,11 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint src/*"
+  },
+  "author": "Larry Kiniu",
+  "license": "ISC"
+}
